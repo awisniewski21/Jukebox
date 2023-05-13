@@ -15,13 +15,13 @@ To create a party, the host first enters in information about the party, such as
 </br>
 </br>
 <p float="left" align="middle">
-  <img src="https://github.com/awisniewski21/Jukebox/assets/43355483/ad64859c-493d-4b70-ae52-cd06c5630b3e" width="200" height="425"/> 
+  <img src="https://github.com/awisniewski21/Jukebox/assets/43355483/ad64859c-493d-4b70-ae52-cd06c5630b3e" width="190" height="425"/> 
   &nbsp;
-  <img src="https://github.com/awisniewski21/Jukebox/assets/43355483/3f904fe0-747b-41c6-a884-cec49ce54f40" width="200" height="425" /> 
+  <img src="https://github.com/awisniewski21/Jukebox/assets/43355483/3f904fe0-747b-41c6-a884-cec49ce54f40" width="190" height="425" /> 
   &nbsp;
-  <img src="https://github.com/awisniewski21/Jukebox/assets/43355483/a9072b0d-3572-4dde-ba4c-eb1c902f2c67" width="200" height="425" />
+  <img src="https://github.com/awisniewski21/Jukebox/assets/43355483/a9072b0d-3572-4dde-ba4c-eb1c902f2c67" width="190" height="425" />
   &nbsp;
-  <img src="https://github.com/awisniewski21/Jukebox/assets/43355483/09b8b75d-4320-48b7-b057-4e3fcad57103" width="200" height="425" />
+  <img src="https://github.com/awisniewski21/Jukebox/assets/43355483/09b8b75d-4320-48b7-b057-4e3fcad57103" width="190" height="425" />
 </p>
 
 ## Input Validation
